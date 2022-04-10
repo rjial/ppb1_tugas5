@@ -12,5 +12,5 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:adjustViewBounds="true"
-        android:src="@drawable/ic_launcher_background" />
+        android:src="@drawable/ic_baseline_run_circle_24" />
 </RelativeLayout>
